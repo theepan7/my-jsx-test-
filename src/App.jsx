@@ -10,12 +10,12 @@ import {
 
 // 1. REPLACE WITH YOUR REAL FIREBASE CONFIG FROM CONSOLE
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBdfo2m9fdCNvx8e0pPgX3H-UD7b90QwH0",
+  authDomain: "listeninghub-50d02.firebaseapp.com",
+  projectId: "listeninghub-50d02",
+  storageBucket: "listeninghub-50d02.firebasestorage.app",
+  messagingSenderId: "240024230551",
+  appId: "1:240024230551:web:e8ba492834e1a3fcd7a7d2"
 };
 
 // Initialize Firebase
